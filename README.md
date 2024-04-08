@@ -51,7 +51,7 @@ git remote add origin https://github.com/ваш_логин/ваш_репозит
 
 Если используется GitHub токен:
 ```bash
-git remote add origin https://github.com/ваш_логин/токен@ваш_репозиторий.git
+git remote add origin https://токен@github.com/ваш_логин/ваш_репозиторий.git
 ```
 
 ## git add и .gitignore
